@@ -1,0 +1,20 @@
+﻿<metadata>
+
+<attr path="/api/package[@name='com.helpshift.customadapters']" name="managedName">Xamarin.Android.Helpshift.Customadapters</attr>
+<attr path="/api/package[@name='com.helpshift.exceptions']" name="managedName">Xamarin.Android.Helpshift.Exceptions</attr>
+<attr path="/api/package[@name='com.helpshift.external']" name="managedName">Xamarin.Android.Helpshift.External</attr>
+<attr path="/api/package[@name='com.helpshift.res.drawable']" name="managedName">Xamarin.Android.Helpshift.Res.Drawable</attr>
+<attr path="/api/package[@name='com.helpshift.res.values']" name="managedName">Xamarin.Android.Helpshift.Res.Values</attr>
+<attr path="/api/package[@name='com.helpshift.util']" name="managedName">Xamarin.Android.Helpshift.Util</attr>
+<attr path="/api/package[@name='com.helpshift.viewstructs']" name="managedName">Xamarin.Android.Helpshift.viewstructs</attr>
+<attr path="/api/package[@name='com.helpshift.widget']" name="managedName">Xamarin.Android.Helpshift.Widget</attr>
+<attr path="/api/package[@name='com.helpshift.app']" name="managedName">Xamarin.Android.Helpshift.App</attr>
+<attr path="/api/package[@name='com.helpshift.view']" name="managedName">Xamarin.Android.Helpshift.View</attr>
+<attr path="/api/package[@name='com.helpshift']" name="managedName">Xamarin.Android.Helpshift</attr>
+
+<attr path="/api/package[@name='com.helpshift']/class[@name='Helpshift']" name="managedName">HS</attr>
+
+<attr path="/api/package[@name='com.helpshift']/class[@name='HSActivity']" name="visibility">public</attr>
+<attr path="/api/package[@name='com.helpshift']/class[@name='Faq']" name="visibility">public</attr>
+
+</metadata>

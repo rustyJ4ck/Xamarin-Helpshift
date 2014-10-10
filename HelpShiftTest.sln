@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpShiftTest", "HelpShiftTest\HelpShiftTest.csproj", "{D0E8DA2C-B0EC-415D-904D-FB50DDF5C532}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpShift", "vendor\HelpShift\HelpShift.csproj", "{05469276-3B42-4036-9FDC-B19FE8F5C4FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05469276-3B42-4036-9FDC-B19FE8F5C4FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05469276-3B42-4036-9FDC-B19FE8F5C4FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05469276-3B42-4036-9FDC-B19FE8F5C4FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05469276-3B42-4036-9FDC-B19FE8F5C4FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0E8DA2C-B0EC-415D-904D-FB50DDF5C532}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0E8DA2C-B0EC-415D-904D-FB50DDF5C532}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0E8DA2C-B0EC-415D-904D-FB50DDF5C532}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0E8DA2C-B0EC-415D-904D-FB50DDF5C532}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = HelpShiftTest\HelpShiftTest.csproj
+	EndGlobalSection
+EndGlobal
